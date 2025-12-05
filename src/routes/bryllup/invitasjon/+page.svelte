@@ -50,7 +50,7 @@
 				frameborder="0"
 				marginheight="0"
 				marginwidth="0"
-			/>
+			></iframe>
 		{:else}
 			<p>
 				Registreringen var åpen til {formatDate(lastRegistrationDate)}, og er nå stengt. Dersom du har spørsmål, ta kontakt med oss på e-post eller telefon.
